@@ -1,0 +1,22 @@
+number,last_name,first_name,middle_name,organization,work_phone,personal_phone
+1,Gusev,Andrey,Vladimirovich,Gymnasy 17,89267619504.0,83450985014
+2,Davnova,Svetlana,Anatolyevna,"""Complex""",89345689232.0,89253446730
+3,Davnova,Svetlana,Anatolyevna,"""Prestige""",89345670902.0,87650948325
+4,Davnova,Svetlana,Anatolyevna,,,89546759483
+5,Sergienko,Mark,Semenovich,Stroimonolit,89654738291.0,89450987539
+6,Popov,Sergei,Vitalyevich,Monotek,,89256437896
+7,Guzdin,Vladimir,Andreevich,,,87064868632
+8,Tyazhkin,Nikita,Semenovich,,,89456326591
+9,Khvan,Nikolay,Vladimirovich,,,998940760901
+10,Bulkin,Aleksandr,Aleksandrovich,Muztorg,,89253445160
+11,Zolotov,Denis,Petrovich,PFUR,89276549602.0,89254567892
+12,Koloratko,Oleksandr,Mityaevich,Salut-M,,86580768356
+13,Johnson,John,Adams,Acme Corporation,55512128540.0,555-1213
+14,Smith,Jane,B,XYZ Corporation,55523239573.0,55543682324
+15,Williams,David,C,ABC Corporation,,55576543435
+16,Jones,Mary,D,DEF Corporation,55506934545.0,55535784546
+17,Brown,Michael,E,GHI Corporation,5551295656.0,55586435657
+18,Davis,Sarah,F,JKL Corporation,55546786767.0,55525686768
+19,Miller,William,G,MNO Corporation,55597647878.0,55598427879
+20,Anderson,Patricia,H,PQR Corporation,,55554758999
+21,Smith,Bob,J,Meta,None,84778829443743
